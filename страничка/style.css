@@ -152,28 +152,28 @@ p {
 
 @font-face {
     font-family: HelveticaNeueCyr-Bold;
-    src: url(HelveticaNeueCyr-Bold.ttf);
+    src: url(./font/HelveticaNeueCyr-Bold.ttf);
     font-weight: bold;
 }
 
 @font-face {
     font-family: HelveticaNeueCyr-Light;
-    src: url(HelveticaNeueCyr-Light.ttf);
+    src: url(./font/HelveticaNeueCyr-Light.ttf);
 }
 
 @font-face {
     font-family: HelveticaNeueCyr-Roman;
-    src: url(HelveticaNeueCyr-Roman.ttf);
+    src: url(./font/HelveticaNeueCyr-Roman.ttf);
 }
 
 @font-face {
     font-family: HelveticaNeueCyr-Thin;
-    src: url(HelveticaNeueCyr-Thin.ttf);
+    src: url(./font/HelveticaNeueCyr-Thin.ttf);
 }
 
 @font-face {
     font-family: HelveticaNeueCyr-UltraLight;
-    src: url(HelveticaNeueCyr-UltraLight.ttf);
+    src: url(./font/HelveticaNeueCyr-UltraLight.ttf);
 }
 
 
@@ -190,7 +190,7 @@ p {
 }
 
 .section-photo {
-    background: url(1.png) no-repeat;
+    background: url(./img/1.png) no-repeat;
     background-position: 90% 0;
     background-size: 35% auto;
     padding: 5%;
